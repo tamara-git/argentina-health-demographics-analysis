@@ -42,18 +42,6 @@ Desarrollado en el marco de la materia **Laboratorio de Datos** (Facultad de Cie
 
 ---
 
-## - Estructura del Repositorio
-
-```text
-├── TablasOriginales/         # Archivos fuente (.xlsx, .csv)
-├── TablasModelo/             # Tablas normalizadas en CSV derivadas del proceso ETL (3FN)
-├── Trabajo-Practico-01.py    # Script principal de Python (ETL, Queries SQL con DuckDB y Visualizaciones)
-├── Informe.pdf               # Informe final con metodología, análisis GQM y conclusiones
-└── README.md                 # Descripción del proyecto
-```
-
----
-
 ## - Requisitos e Instalación
 
 1. **Clonar el repositorio:**
