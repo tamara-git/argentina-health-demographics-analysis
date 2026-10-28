@@ -5,14 +5,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Data%20Viz-3776AB)
 
-## 📌 Descripción del Proyecto
+## - Descripción del Proyecto
 Este proyecto de análisis de datos explora las relaciones entre las causas de mortalidad, las variables demográficas (edad y sexo registrado al nacer) y las condiciones de acceso a la salud (cobertura médica e infraestructura de establecimientos) en la República Argentina durante el período **2005–2022**.
 
 Desarrollado en el marco de la materia **Laboratorio de Datos** (Facultad de Ciencias Exactas y Naturales - Universidad de Buenos Aires), el proyecto abarca desde el procesamiento masivo de microdatos censales y registros de defunciones, la evaluación de calidad bajo metodología **GQM** (*Goal, Question, Metric*), hasta la modelación en **Tercera Forma Normal (3FN)** y la consulta analítica intensiva mediante SQL (**DuckDB**).
 
 ---
 
-## 🎯 Objetivos Principales
+## - Objetivos Principales
 1. **Modelado y Limpieza de Datos:**
    - Diseñar un Diagrama Entidad-Relación (DER) óptimo.
    - Normalizar los esquemas relacionales a **3FN** (identificando PKs, FKs y Dependencias Funcionales).
@@ -27,14 +27,14 @@ Desarrollado en el marco de la materia **Laboratorio de Datos** (Facultad de Cie
 
 ---
 
-## 📊 Fuentes de Datos
+## - Fuentes de Datos
 - **Censo Nacional de Población 2010 & 2022 (INDEC / Redatam):** Población por provincia, edad, sexo y cobertura de salud.
 - **Defunciones Ocurridas y Registradas (Ministerio de Salud / Datos Abiertos 2005–2022):** Causas de muerte codificadas bajo la Clasificación Internacional de Enfermedades (CIE-10).
 - **Registro Federal de Establecimientos de Salud (REFES 2022):** Distribución de centros de salud, tipologías y fuentes de financiamiento.
 
 ---
 
-## 🏗️ Arquitectura y Modelo Relacional
+## - Arquitectura y Modelo Relacional
 El modelo relacional fue diseñado en **3FN** priorizando la eliminación de redundancias y garantizando la integridad referencial. 
 
 ```
@@ -50,7 +50,7 @@ El modelo relacional fue diseñado en **3FN** priorizando la eliminación de red
 
 ---
 
-## 🚀 Estructura del Repositorio
+## - Estructura del Repositorio
 
 ```text
 ├── TablasOriginales/         # Archivos fuente (.xlsx, .csv)
@@ -62,7 +62,7 @@ El modelo relacional fue diseñado en **3FN** priorizando la eliminación de red
 
 ---
 
-## 🛠️ Requisitos e Instalación
+## - Requisitos e Instalación
 
 1. **Clonar el repositorio:**
    ```bash
@@ -82,7 +82,7 @@ El modelo relacional fue diseñado en **3FN** priorizando la eliminación de red
 
 ---
 
-## 📊 Principales Análisis y Visualizaciones
+## - Principales Análisis y Visualizaciones
 - **Evolución de Cobertura de Salud:** Comparativa 2010 vs. 2022 por provincia y franja etaria.
 - **Tasa de Mortalidad 2022:** Tasas ajustadas por grupo etario e impacto por sexo.
 - **Capacidad Instalada (Terapia Intensiva):** Proporción de financiamiento estatal vs. privado por jurisdicción.
