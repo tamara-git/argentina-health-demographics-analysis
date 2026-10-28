@@ -1,0 +1,36 @@
+Id_Tipologia,Tipologia_Nombre
+TIP-01,Agencias-servicios gubernamentales
+TIP-02,Alto riesgo con terapia intensiva
+TIP-03,Alto riesgo con terapia intensiva especializada
+TIP-04,Análisis clínicos y Laboratorio de Anatomía Patológica
+TIP-05,Bajo riesgo con internación simple
+TIP-06,Bancos de Sangre
+TIP-07,Centro Rehabilitación motora
+TIP-08,Centro de Diálisis
+TIP-09,Centro de día
+TIP-10,Centro de salud mental
+TIP-11,Centro educativo terapéutico
+TIP-12,Centro tratamientos oncológicos
+TIP-13,Con atención médica diaria y con especialidades y/o otras profesiones
+TIP-14,Con atención médica general por lo menos 3 días de la semana
+TIP-15,Con guardia permanente
+TIP-16,Diagnostico por Imágenes
+TIP-17,Diagnostico por Imágenes odontológicas
+TIP-18,Diagnostico por Imágenes y Diagnostico por Imágenes odontológicas
+TIP-19,Diagnostico por Imágenes y Laboratorio
+TIP-20,Diagnostico por Imágenes y Laboratorio Análisis clínicos
+TIP-21,Gabinete de Podología
+TIP-22,Internación Domiciliaria
+TIP-23,Laboratorio de Anatomía patológica
+TIP-24,Laboratorio de Análisis Clínicos
+TIP-25,Laboratorios mecánica dental
+TIP-26,Mediano riesgo con internación con cuidados especiales
+TIP-27,Medicina Laboral
+TIP-28,Ortopedia
+TIP-29,Otros
+TIP-30,Residuos Patológicos
+TIP-31,Sin atención médica en forma periódica (menor a 3 veces por semana)
+TIP-32,Sistema de Atención extra hospitalaria
+TIP-33,Unidades de Atención Móviles
+TIP-34,Vacunatorios
+TIP-35,Óptica

@@ -1,0 +1,121 @@
+Provincia,Grupo_Edad,Habitantes con cobertura en 2010,Habitantes sin cobertura en 2010,Habitantes con cobertura en 2022,Habitantes sin cobertura en 2022
+Buenos Aires,De 0 a 14 anios,2230507.0,1643068.0,2183542.0,1645128.0
+Buenos Aires,De 15 a 34 anios,2850048.0,2145986.0,2832382.0,2418209.0
+Buenos Aires,De 35 a 54 anios,2423430.0,1255181.0,3068766.0,1533103.0
+Buenos Aires,De 55 a 74 anios,1889938.0,452068.0,2349377.0,490794.0
+Buenos Aires,De 75 anios y mas,709167.0,20078.0,863446.0,24159.0
+Catamarca,De 0 a 14 anios,59291.0,48085.0,51269.0,44166.0
+Catamarca,De 15 a 34 anios,63045.0,60119.0,61478.0,79985.0
+Catamarca,De 35 a 54 anios,53975.0,26008.0,71860.0,39351.0
+Catamarca,De 55 a 74 anios,36474.0,8328.0,53156.0,9868.0
+Catamarca,De 75 anios y mas,11561.0,814.0,15947.0,545.0
+Chaco,De 0 a 14 anios,102599.0,217824.0,102688.0,170119.0
+Chaco,De 15 a 34 anios,122826.0,240413.0,132961.0,246599.0
+Chaco,De 35 a 54 anios,109327.0,113854.0,147272.0,131086.0
+Chaco,De 55 a 74 anios,83587.0,35864.0,120215.0,37716.0
+Chaco,De 75 anios y mas,26471.0,2490.0,34216.0,1731.0
+Chubut,De 0 a 14 anios,97999.0,37633.0,93913.0,38566.0
+Chubut,De 15 a 34 anios,117714.0,57985.0,109379.0,71224.0
+Chubut,De 35 a 54 anios,90986.0,30075.0,123727.0,41396.0
+Chubut,De 55 a 74 anios,50733.0,11489.0,76356.0,12067.0
+Chubut,De 75 anios y mas,13867.0,1157.0,21997.0,829.0
+Ciudad Autónoma de Buenos Aires,De 0 a 14 anios,359438.0,112701.0,368291.0,91585.0
+Ciudad Autónoma de Buenos Aires,De 15 a 34 anios,678543.0,213498.0,670884.0,207783.0
+Ciudad Autónoma de Buenos Aires,De 35 a 54 anios,609196.0,129277.0,740852.0,142984.0
+Ciudad Autónoma de Buenos Aires,De 55 a 74 anios,497909.0,50418.0,558288.0,57841.0
+Ciudad Autónoma de Buenos Aires,De 75 anios y mas,237178.0,3923.0,252221.0,4725.0
+Corrientes,De 0 a 14 anios,133330.0,158348.0,151849.0,139733.0
+Corrientes,De 15 a 34 anios,142170.0,190901.0,169632.0,231873.0
+Corrientes,De 35 a 54 anios,117670.0,95910.0,169460.0,120537.0
+Corrientes,De 55 a 74 anios,90910.0,32704.0,145224.0,35112.0
+Corrientes,De 75 anios y mas,29390.0,1924.0,44107.0,2144.0
+Córdoba,De 0 a 14 anios,483415.0,320427.0,466540.0,340070.0
+Córdoba,De 15 a 34 anios,648815.0,424090.0,661912.0,519316.0
+Córdoba,De 35 a 54 anios,506935.0,250234.0,656594.0,337512.0
+Córdoba,De 55 a 74 anios,425683.0,85973.0,530660.0,101351.0
+Córdoba,De 75 anios y mas,156196.0,4917.0,193796.0,4313.0
+Entre Ríos,De 0 a 14 anios,184072.0,141253.0,179626.0,135079.0
+Entre Ríos,De 15 a 34 anios,219889.0,173766.0,222009.0,213294.0
+Entre Ríos,De 35 a 54 anios,189449.0,92886.0,244061.0,119523.0
+Entre Ríos,De 55 a 74 anios,150735.0,31662.0,197748.0,35180.0
+Entre Ríos,De 75 anios y mas,51641.0,1797.0,67341.0,1236.0
+Formosa,De 0 a 14 anios,55378.0,111921.0,51829.0,101096.0
+Formosa,De 15 a 34 anios,61601.0,114143.0,62283.0,137589.0
+Formosa,De 35 a 54 anios,58095.0,55298.0,70127.0,74206.0
+Formosa,De 55 a 74 anios,41812.0,18767.0,63969.0,23914.0
+Formosa,De 75 anios y mas,12018.0,1890.0,18927.0,1567.0
+Jujuy,De 0 a 14 anios,101434.0,94920.0,94779.0,94721.0
+Jujuy,De 15 a 34 anios,104957.0,128860.0,102637.0,156853.0
+Jujuy,De 35 a 54 anios,86172.0,59593.0,118759.0,93875.0
+Jujuy,De 55 a 74 anios,60400.0,19480.0,89634.0,26938.0
+Jujuy,De 75 anios y mas,16561.0,1973.0,29308.0,1860.0
+La Pampa,De 0 a 14 anios,48234.0,31040.0,46667.0,31185.0
+La Pampa,De 15 a 34 anios,58628.0,40142.0,59008.0,46598.0
+La Pampa,De 35 a 54 anios,52590.0,23003.0,66492.0,28555.0
+La Pampa,De 55 a 74 anios,42197.0,8271.0,52965.0,8617.0
+La Pampa,De 75 anios y mas,14882.0,339.0,18925.0,181.0
+La Rioja,De 0 a 14 anios,52140.0,41278.0,43623.0,41094.0
+La Rioja,De 15 a 34 anios,63423.0,55879.0,59914.0,72222.0
+La Rioja,De 35 a 54 anios,50673.0,22840.0,62418.0,36294.0
+La Rioja,De 55 a 74 anios,31429.0,6667.0,45254.0,8768.0
+La Rioja,De 75 anios y mas,9374.0,626.0,12380.0,486.0
+Mendoza,De 0 a 14 anios,252894.0,193189.0,252583.0,216881.0
+Mendoza,De 15 a 34 anios,315090.0,258806.0,309075.0,308280.0
+Mendoza,De 35 a 54 anios,248413.0,135594.0,328752.0,185072.0
+Mendoza,De 55 a 74 anios,205960.0,51842.0,270388.0,57542.0
+Mendoza,De 75 anios y mas,74359.0,2223.0,99607.0,2593.0
+Misiones,De 0 a 14 anios,182233.0,176390.0,155196.0,185765.0
+Misiones,De 15 a 34 anios,187124.0,183131.0,180884.0,240199.0
+Misiones,De 35 a 54 anios,141921.0,88067.0,175515.0,126183.0
+Misiones,De 55 a 74 anios,86648.0,29321.0,131859.0,39994.0
+Misiones,De 75 anios y mas,24004.0,2470.0,35991.0,1761.0
+Neuquén,De 0 a 14 anios,92015.0,54053.0,105193.0,54441.0
+Neuquén,De 15 a 34 anios,112721.0,77870.0,130863.0,91593.0
+Neuquén,De 35 a 54 anios,93716.0,41743.0,140279.0,57192.0
+Neuquén,De 55 a 74 anios,49387.0,15405.0,85731.0,19111.0
+Neuquén,De 75 anios y mas,12665.0,1116.0,23262.0,913.0
+Río Negro,De 0 a 14 anios,104633.0,61345.0,102102.0,62700.0
+Río Negro,De 15 a 34 anios,122787.0,89274.0,120176.0,107104.0
+Río Negro,De 35 a 54 anios,103814.0,49251.0,136704.0,66804.0
+Río Negro,De 55 a 74 anios,68664.0,18203.0,98286.0,21028.0
+Río Negro,De 75 anios y mas,20097.0,1468.0,31657.0,1136.0
+Salta,De 0 a 14 anios,175771.0,201654.0,163833.0,199030.0
+Salta,De 15 a 34 anios,184458.0,229790.0,193359.0,282652.0
+Salta,De 35 a 54 anios,143828.0,108675.0,197612.0,153589.0
+Salta,De 55 a 74 anios,100793.0,34510.0,145427.0,48143.0
+Salta,De 75 anios y mas,31260.0,2551.0,47388.0,3192.0
+San Juan,De 0 a 14 anios,96659.0,98713.0,97265.0,105165.0
+San Juan,De 15 a 34 anios,103621.0,117285.0,110042.0,149705.0
+San Juan,De 35 a 54 anios,88598.0,58942.0,116483.0,84782.0
+San Juan,De 55 a 74 anios,71798.0,21425.0,96472.0,25060.0
+San Juan,De 75 anios y mas,21961.0,1254.0,33391.0,1080.0
+San Luis,De 0 a 14 anios,63909.0,56799.0,70794.0,49746.0
+San Luis,De 15 a 34 anios,73539.0,65257.0,85175.0,88679.0
+San Luis,De 35 a 54 anios,62811.0,36124.0,94724.0,45943.0
+San Luis,De 55 a 74 anios,46613.0,11893.0,68273.0,14990.0
+San Luis,De 75 anios y mas,14106.0,674.0,21762.0,462.0
+Santa Cruz,De 0 a 14 anios,65534.0,10901.0,70684.0,11237.0
+Santa Cruz,De 15 a 34 anios,75626.0,21571.0,79499.0,28376.0
+Santa Cruz,De 35 a 54 anios,56204.0,9322.0,80442.0,13654.0
+Santa Cruz,De 55 a 74 anios,23516.0,3223.0,39463.0,3437.0
+Santa Cruz,De 75 anios y mas,4705.0,246.0,8664.0,221.0
+Santa Fe,De 0 a 14 anios,441021.0,317838.0,452587.0,293359.0
+Santa Fe,De 15 a 34 anios,643803.0,407470.0,620254.0,436292.0
+Santa Fe,De 35 a 54 anios,516623.0,213562.0,665152.0,266891.0
+Santa Fe,De 55 a 74 anios,421296.0,70319.0,514108.0,81267.0
+Santa Fe,De 75 anios y mas,162394.0,3049.0,185946.0,3203.0
+Santiago del Estero,De 0 a 14 anios,98307.0,178256.0,88477.0,180558.0
+Santiago del Estero,De 15 a 34 anios,100239.0,189953.0,106020.0,249337.0
+Santiago del Estero,De 35 a 54 anios,86627.0,89747.0,127993.0,128530.0
+Santiago del Estero,De 55 a 74 anios,75340.0,28001.0,107298.0,33021.0
+Santiago del Estero,De 75 anios y mas,25164.0,2020.0,35200.0,1318.0
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",De 0 a 14 anios,28315.0,6492.0,38076.0,4473.0
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",De 15 a 34 anios,33044.0,11938.0,46725.0,14241.0
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",De 35 a 54 anios,27010.0,6313.0,44525.0,7440.0
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",De 55 a 74 anios,9732.0,1846.0,23637.0,2110.0
+"Tierra del Fuego, Antártida e Islas del Atlántico Sur",De 75 anios y mas,1581.0,49.0,3622.0,109.0
+Tucumán,De 0 a 14 anios,232449.0,175418.0,235890.0,165880.0
+Tucumán,De 15 a 34 anios,281901.0,214436.0,315942.0,248909.0
+Tucumán,De 35 a 54 anios,206686.0,102786.0,293030.0,138948.0
+Tucumán,De 55 a 74 anios,152527.0,33596.0,222595.0,39703.0
+Tucumán,De 75 anios y mas,46546.0,2289.0,64483.0,1957.0

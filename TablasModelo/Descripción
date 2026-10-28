@@ -1,0 +1,18 @@
+EN ESTA CARPETA ESTARAN:
+--- LAS TABLAS QUE CREAREMOS A TRAVÉS DEL DIAGRAMA DE ENTIDAD-RELACIÓN (DER) Y EL MODELO RELACIONAL (MR)
+      i) Provincia
+      ii) Departamentos
+      iii) Tipologia
+      iv) Origen_Financiero
+      v) Establecimientos_de_Salud
+      vi) Censos
+      vii) Defunciones
+      viii) se_producen
+      xix) se_realizan
+
+--- Y LAS TABLAS PEDIDAS EN LA CONSIGNA DE ANÁLISIS DE DATOS
+      i) Cobertura de salud
+      ii) Establecimientos de salud con terapia intensiva
+      iii) Causas de muerte
+      iv) Tasa de mortalidad por provincia
+      v) Cambios en las causas de defunción
