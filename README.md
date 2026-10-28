@@ -34,32 +34,13 @@ Desarrollado en el marco de la materia **Laboratorio de Datos** (Facultad de Cie
 
 ---
 
-## - Arquitectura y Modelo Relacional
-El modelo relacional fue diseñado en **3FN** priorizando la eliminación de redundancias y garantizando la integridad referencial. 
+## 📐 Diagrama Entidad-Relación (DER)
+![Diagrama Entidad Relación](./assets/der.png)
 
-```
-[Provincias] ──< [Departamentos] ──< [Establecimientos_de_Salud]
-     │                                     │
-     │                                     ├──> [Tipologias]
-     │                                     └──> [Origen_Financiero]
-     │
-     ├───< [Se_Realizan] >─── [Censos]
-     │
-     └───< [Se_Producen] >─── [Defunciones]
-```
+## 🗄️ Modelo Relacional (3FN)
+![Modelo Relacional](./assets/modelo-relacional.png)
 
 ---
-### 🗄️ Esquema Relacional (3FN)
-
-- **Provincias** (`Id-Provincia`, Nombre de Provincia)
-- **Departamentos** (`Id-Departamento`, Nombre de Departamento, *Id-Provincia*)
-- **Tipologias** (`Id-Tipología`, Nombre de la Tipología)
-- **Origen_Financiero** (`Id-Origen-Financiero`, Nombres del Origen Financiero)
-- **Establecimientos_de_Salud** (`Id-Establecimiento`, Nombres de los Establecimientos, *Id-Tipología*, *Id-Origen-Financiero*, *Id-Departamento*)
-- **Censos** (`Año`, `Cobertura de Salud`, `Sexo`, `Edad`)
-- **Defunciones** (`Nombre-Causa-Muerte`, `Año`, `Grupo de Edad`, `Sexo`)
-- **Se_Realizan** (*Id-Provincia*, *Año*, *Cobertura de Salud*, *Sexo*, *Edad*, Cantidad)
-- **Se_Producen** (*Id-Provincia*, *Nombre-Causa-Muerte*, *Año*, *Grupo de Edad*, *Sexo*, Cantidad de Casos)
 
 ## - Estructura del Repositorio
 
